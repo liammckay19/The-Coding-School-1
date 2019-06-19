@@ -1,1 +1,1 @@
-# The-Coding-School-1
+# The-Coding-School-Summer-1
