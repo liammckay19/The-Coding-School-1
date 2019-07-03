@@ -5,7 +5,8 @@ priceOfJeans = 20
 taxRate = 0.10
 
 # Real Explanation
-# The variable numberOfJeans is set to 5, priceOfJeans is 10 and taxRate is 0.10. The total price ((5 * 10) * (1 + .10)) = 55
+# The variable numberOfJeans is set to 5, priceOfJeans
+# is 10 and taxRate is 0.10. The total price ((5 * 10) * (1 + .10)) = 55
 
 # EXAMPLE
 # 20$ is taxed at 10%
